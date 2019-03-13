@@ -8,8 +8,7 @@
                 <div class="card-header">Customers</div>
 
                 <div class="card-body">
-
-                    You are logged in!
+                        <customer-component></customer-component>
                 </div>
             </div>
         </div>
