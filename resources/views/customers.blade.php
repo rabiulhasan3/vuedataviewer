@@ -8,7 +8,7 @@
                 <div class="card-header">Customers</div>
 
                 <div class="card-body">
-                        <customer-component></customer-component>
+                    <customer-component></customer-component>
                 </div>
             </div>
         </div>
